@@ -26,8 +26,8 @@
             <p>This project uses the following technologies:</p>
             <ul>
                 <li><strong>HTML5</strong></li>
-                <li><strong>CSS3</strong></li>
-            </ul>
+                
+ </ul>
         </section>
 
    <section>
